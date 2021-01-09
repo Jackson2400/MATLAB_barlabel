@@ -1,4 +1,5 @@
 # MATLAB_barlabel
+[![View barlabel on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/72234-barlabel)
 This function writes the value of bars in bar graphs over figures in MATLAB.
 See function docstring for detailed usage instructions and examples.
 
